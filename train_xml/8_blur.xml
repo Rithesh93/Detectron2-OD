@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>8_blur.jpg</filename>
+	<path>/my-project-name/8_blur.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>602</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>PAN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>265</ymin>
+			<xmax>179</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>15_grayscale.jpg</filename>
+	<path>/my-project-name/15_grayscale.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>423</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>PAN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>181</ymin>
+			<xmax>434</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>
